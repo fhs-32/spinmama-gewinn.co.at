@@ -1,0 +1,11 @@
+name = "spinmama-gewinn-co-at"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmama-gewinn.co.at"
+HMAC_KEY = "59795e8d8a9c414a9c2dc6199fa2b0bfa29313c8ea70a85933d7d958071e8b77"
+COOKIE_NAME = "y3e"
+PLAY_PATH = "play-now"
+BUTTON_ID = "pe5be3630d34421ff20e569cf3cfad08d"
+GATE_SALT = "b6e854b6e0334214"
